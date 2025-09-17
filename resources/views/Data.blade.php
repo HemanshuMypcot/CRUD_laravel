@@ -13,7 +13,7 @@
     <div class="container mt-4">
         <div class="card align-center">
             <div class="card-header">
-                <a href="/" class="btn btn-outline-info float-right">Create User</a>
+                <a href="/" class="btn btn-outline-info float-right">Banna User</a>
             </div>
             <div class="card-body">
                 <div class="container">
