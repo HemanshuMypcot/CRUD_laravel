@@ -15,7 +15,7 @@
 
 <body>
     <div class="container mt-4">
-        <h1 class="text-center m-3">Add User</h1>
+        <h1 class="text-center m-3">uyiyuyiuyuiyui User</h1>
         <div class="card">
             <h5 class="card-header">
                 <a href="data" class="btn btn-outline-info">Show All Users</a>

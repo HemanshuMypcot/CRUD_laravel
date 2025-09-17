@@ -13,14 +13,14 @@
     <div class="container mt-4">
         <div class="card align-center">
             <div class="card-header">
-                <a href="/" class="btn btn-outline-info float-right">Banna User</a>
+                <a href="/" class="btn btn-outline-info float-right">Create User</a>
             </div>
             <div class="card-body">
                 <div class="container">
                 <table class="table" >
                     <thead>
                         <tr>
-                            <th scope="col">ID</th>
+                            <th scope="col">ID..oo</th>
                             <th scope="col">Name</th>
                             <th scope="col">Phone</th>
                             <th scope="col">Email</th>
