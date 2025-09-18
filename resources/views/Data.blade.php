@@ -20,7 +20,7 @@
                 <table class="table" >
                     <thead>
                         <tr>
-                            <th scope="col">ID.. hemashu SOlanki</th>
+                            <th scope="col">ID.. hemashu SOlankiiiiiiiiiiiiiiiiiiiiiii</th>
                             <th scope="col">Name</th>
                             <th scope="col">Phone</th>
                             <th scope="col">Email</th>
